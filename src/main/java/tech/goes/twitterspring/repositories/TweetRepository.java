@@ -7,5 +7,5 @@ import tech.goes.twitterspring.entities.Tweet;
 import java.util.UUID;
 
 @Repository
-public interface TweetRepository extends JpaRepository<Tweet, UUID> {
+public interface TweetRepository extends JpaRepository<Tweet, Long> {
 }
