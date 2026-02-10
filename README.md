@@ -1,12 +1,12 @@
 API RESTful simplificada que simula as funcionalidades básicas de uma rede social (Twitter), desenvolvida com o ecossistema Spring.
 
-## 📝 Descrição
+## Descrição
 
 Este é um projeto backend focado em demonstrar a implementação de uma arquitetura escalável utilizando Java e Spring Boot. O sistema permite a criação de usuários, gerenciamento de tweets e possui um sistema de segurança completo com autenticação via Token JWT e OAuth2.
 
 O objetivo principal é fornecer funcionalidades de feed, criação de publicações e gerenciamento de permissões (Admin e User).
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Java 17** (ou superior)
 * **Spring Boot 3**
@@ -17,7 +17,7 @@ O objetivo principal é fornecer funcionalidades de feed, criação de publicaç
 * **PostgreSQL** (Banco de dados relacional)
 * **Maven** (Gerenciador de dependências)
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 * **Autenticação e Segurança:**
     * Login seguro com geração de Token JWT.
@@ -31,7 +31,7 @@ O objetivo principal é fornecer funcionalidades de feed, criação de publicaç
 * **Feed:**
     * Listagem de tweets para consumo no feed principal.
 
-## 🛠️ Como rodar o projeto
+## Como rodar o projeto
 
 ### Pré-requisitos
 * Java JDK 17+ instalado.
